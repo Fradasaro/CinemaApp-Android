@@ -27,22 +27,40 @@ Librerie principali: AndroidX, RecyclerView, ViewBinding, ecc.
 
 
 🖼️ Screenshot
+
+
 Schermata Principale
+
 <img width="437" height="768" alt="Screenshot 2025-10-24 alle 17 04 48" src="https://github.com/user-attachments/assets/5d484cda-6494-4c21-931c-8a69ae9adfc3" />
 
+
+
 Proiezione dei film
+
 <img width="432" height="767" alt="Screenshot 2025-10-24 alle 17 04 58" src="https://github.com/user-attachments/assets/a681e075-eecd-443d-90ec-de02a645e092" />
 
+
+
 Schermata Login
+
 <img width="417" height="772" alt="Screenshot 2025-10-24 alle 17 08 15" src="https://github.com/user-attachments/assets/2e755011-3797-45df-ad22-781d59926d2a" />
 
+
+
 Schermata "I miei Biglietti"
+
 <img width="413" height="772" alt="Screenshot 2025-10-24 alle 17 18 40" src="https://github.com/user-attachments/assets/ea23006a-c287-4b83-a773-3a13d6b441e9" />
 
+
+
 Schermata "Snack e Bevande"
+
 <img width="424" height="777" alt="Screenshot 2025-10-24 alle 17 20 11" src="https://github.com/user-attachments/assets/81dab6f8-040e-43c8-8516-4f73472ca496" />
 
+
+
 Schermata descrizione film e recensioni
+
 <img width="429" height="774" alt="Screenshot 2025-10-24 alle 17 35 56" src="https://github.com/user-attachments/assets/d7a69518-a8d5-42d4-a97f-4d705041de78" />
 
 
